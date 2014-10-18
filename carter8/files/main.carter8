@@ -1,0 +1,16 @@
+<open>
+<setup> 
+
+<name> GLO <name>
+<setup>
+
+
+<options>
+
+<redirect> false <redirect>
+<license> GNU <license>
+--
+<options>
+<close>
+
+* This may or may not be needed depending on what your doing
