@@ -1,0 +1,6 @@
+<open>
+<Branch1> Master <Branch1>
+<name> GLO <name>
+<redirect> false <redirect>
+<load> "carter8/files/main.carter8" <load>
+<close>
