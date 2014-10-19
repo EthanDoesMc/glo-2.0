@@ -1,4 +1,5 @@
-glo-testing-area
+GLO 2.0
 ================
 
-An area to test the GLO project by TheDarkUnicorn
+Explained: glo http://www.buildcarter8.net84.net/glo.html
+we have redeveloped glo to make it better :D
