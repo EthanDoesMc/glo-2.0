@@ -2,6 +2,6 @@
 <Branch1> Master <Branch1>
 <name> GLO <name>
 <redirect> false <redirect>
-<load> "carter8/files/main.carter8" <load>
-<load> "src/me/buildcarter8/glo-remastered/glo-remastered" <load>
+<load = mainCarter> "carter8/files/main.carter8" <load>
+<load = mainClass> "src/me/buildcarter8/glo-remastered/glo-remastered" <load>
 <close>
